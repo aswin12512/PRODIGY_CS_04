@@ -22,7 +22,7 @@ This is a simple keylogger implemented in Python that records and logs keystroke
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Adhith708/simple-keylogger.git
+   git clone https://github.com/aswin12512/simple-keylogger.git
    cd simple-keylogger
 
 # Install the required library
